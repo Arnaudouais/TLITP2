@@ -15,6 +15,7 @@ public class Main extends Application {
 	public void start(Stage primaryStage) throws Exception {
 		
 		Button rew = new Button("<<");
+		
 		Button play = new Button("I>");
 		Button fwd = new Button(">>");
 		
