@@ -76,9 +76,9 @@ public class Main extends Application {
 		
 		
 		primaryStage.setMinWidth(420);
-		primaryStage.setMinHeight(85);
+		primaryStage.setMinHeight(125);
 		primaryStage.setTitle("grapher");
-		primaryStage.setScene(new Scene(b1,550,85));
+		primaryStage.setScene(new Scene(b1,550,90));
 		primaryStage.show();
 	}
 	
